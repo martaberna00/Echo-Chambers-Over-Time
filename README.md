@@ -15,5 +15,9 @@ formation and evolution of echo chambers over time, particularly in response to 
 varying rates of polarization associated with different controversial topics.
 
 This repository contains all the material used in the experimental phase of this thesis
+1) Tesi_Magistrale_Bernardelli_Final.pdf: The complete text of the thesis can be found.
+2) Code_Bernardelli_Thesis_Echo_Chambers_Final.ipynb: 
+3) There are also the 4 datasets extracted via the Reddit API
+
 
 
