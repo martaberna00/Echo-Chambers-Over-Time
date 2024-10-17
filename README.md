@@ -15,3 +15,5 @@ formation and evolution of echo chambers over time, particularly in response to 
 varying rates of polarization associated with different controversial topics.
 
 This repository contains all the material used in the experimental phase of this thesis
+
+
