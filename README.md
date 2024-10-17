@@ -40,7 +40,11 @@ To run the provided code, you will need to install the following dependencies:
 - BERTopic
 - cdlib
 - nltk
-- 
+---
+## Contribution and Acknowledgments
+
+This research has been conducted as part of the Master's thesis by Marta Bernardelli. We welcome contributions or extensions to this work. If you would like to contribute or have questions, please feel free to submit a pull request or open an issue.
+
 
 
 
