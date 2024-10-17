@@ -1,23 +1,49 @@
-# Analysis of dynamic metrics for the study of echo chambers in social media
+# Analysis of Dynamic Metrics for the Study of Echo Chambers in Social Media
 
-In recent years, the vast amount of data disseminated online has lead to the phenomenon
-of information overload affecting individuals. To manage this problem, customized filters
-and algorithms are being adopted to help users navigate by relevant content according to
-their preferences. However, the use of such algorithms in social media, now major sources
-of information, can lead to the formation of so called “echo chambers” closed virtual
-environments where people interact primarily with likeminded individuals who share the
-same opinions and beliefs.
-This thesis proposes a dynamic analysis of polarization phenomena by leveraging
-state-of-the-art echo chamber detection metrics. Focusing on major controversial issues
-from the past decade, the study examines data from multiple platforms, including Twitter
-and Reddit, across both short- and long-term topics. The primary goal is to investigate the
-formation and evolution of echo chambers over time, particularly in response to significant triggering events. By doing so, the research seeks to uncover common patterns and
-varying rates of polarization associated with different controversial topics.
+## Introduction
 
-This repository contains all the material used in the experimental phase of this thesis
-1) Tesi_Magistrale_Bernardelli_Final.pdf: The complete text of the thesis can be found.
-2) Code_Bernardelli_Thesis_Echo_Chambers_Final.ipynb: 
-3) There are also the 4 datasets extracted via the Reddit API
+In recent years, the vast amount of data disseminated online has led to the phenomenon of **information overload**, which affects individuals' ability to process information. To manage this, social media platforms have implemented **customized filters** and **algorithms** to tailor content to users' preferences. However, these algorithms may contribute to the formation of **echo chambers**—closed virtual environments where individuals predominantly interact with others who share similar opinions and beliefs.
+
+This repository accompanies the thesis titled **"Analysis of Dynamic Metrics for the Study of Echo Chambers in Social Media,"** which focuses on the **dynamic analysis of polarization** phenomena using state-of-the-art metrics for detecting echo chambers. The research investigates data from multiple platforms, including **Twitter** and **Reddit**, over both short-term and long-term topics, with particular emphasis on controversial issues from the past decade. The primary objective is to analyze the **formation** and **evolution** of echo chambers in response to significant triggering events, uncovering patterns of polarization and varying rates of evolution across different topics.
+
+---
+
+## Repository Content
+
+This repository contains the following materials used during the experimental phase of the thesis:
+
+1. **Tesi_Magistrale_Bernardelli_Final.pdf**:  
+   This is the complete text of the thesis. Inside the document, you will find detailed explanations of the methodologies and analysis conducted, along with links to the Twitter datasets used in the study.
+
+2. **Code_Bernardelli_Thesis_Echo_Chambers_Final.ipynb**:  
+   A Jupyter notebook containing all Python code used in the experimental phase of the research. This includes the functions for data processing, metrics calculations, and visualizations related to the analysis of echo chambers.
+
+3. **Reddit Datasets**:  
+   The repository also includes four datasets extracted via the **Reddit API**. These datasets have been pre-processed and prepared for the experiments, and they are used to explore echo chamber dynamics on Reddit over time.
+
+---
+
+## Requirements
+
+To run the provided code, you will need to install the following dependencies:
+
+- Python 3.x
+- Jupyter Notebook
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Seaborn
+- METIS
+- eva
+- vaderSentiment
+- BERTopic
+- cdlib
+- nltk
+- 
+
+
+
 
 
 
